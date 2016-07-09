@@ -23,7 +23,7 @@ public class Battle {
 
   public enum Commands {
     Attack,
-    Magic,
+    Skill,
     Defend,
     Total
   }
